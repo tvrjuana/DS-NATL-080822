@@ -21,7 +21,9 @@ We will go through and follow these instructions together in a lecture during We
 4) You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to put your local changes up online):
 
 <code>git add [filename]</code>
+
 <code>git commit -m 'message here'</code>
+
 <code>git push</code>
 
 ## Whenever you want to get updated notes:

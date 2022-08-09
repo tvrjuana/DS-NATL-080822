@@ -9,24 +9,26 @@ We will go through and follow these instructions together in a lecture during We
 
 2) Then clone your fork down to your local computer
 
-'''git clone https://github.com/[yourusername]/DS-NATL-080822.git;
-'''
+<code>git clone https://github.com/[yourusername]/DS-NATL-080822.git;
+</code>
 
 
 3) Add the /flatiron-school/ version as the upstream (to pull future changes)
 
-git remote add upstream https://github.com/flatiron-school/DS-NATL-080822.git
+<code>git remote add upstream https://github.com/flatiron-school/DS-NATL-080822.git</code>
 
 
 4) You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to put your local changes up online):
 
-git add [filename]
-git commit -m 'message here'
-git push
+<code>git add [filename]</code>
+<code>git commit -m 'message here'</code>
+<code>git push</code>
 
 ## Whenever you want to get updated notes:
 5) Grab the changes from the upstream repo
-'''git fetch upstream'''
+
+<code>git fetch upstream</code>
 
 6) Merge new changes onto your local repo
-git merge upstream/main -m "meaningful message about what you're updating"
+
+<code>git merge upstream/main -m "meaningful message about what you're updating"</code>

@@ -5,6 +5,8 @@
 
 We will go through and follow these instructions together in a lecture during Week 1 - no rush!
 
+## These steps you should only need to do once:
+
 1) FORK this repository, creating copy on your own GitHub account
 
 2) Then clone your fork down to your local computer
@@ -26,7 +28,8 @@ We will go through and follow these instructions together in a lecture during We
 
 <code>git push</code>
 
-## Whenever you want to get updated notes:
+## These are the steps you need to repeat whenever you want to get updated notes:
+
 5) Grab the changes from the upstream repo
 
 <code>git fetch upstream</code>
